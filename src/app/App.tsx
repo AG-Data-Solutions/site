@@ -413,7 +413,6 @@ function HomePage({ onNav }: { onNav: (p: Page) => void }) {
               </div>
               <div>
                 <p className="text-[#2B2830] font-bold text-sm">Feito para o seu negócio</p>
-                <p className="text-[#2B2830]/55 text-xs">não para o mercado genérico</p>
               </div>
             </div>
           </div>
